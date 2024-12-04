@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kareem Abdul Hafidzh</h1>
-<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am android developer and UI/UX Designer</h3>
+<h3 align="center">I am a student in BINUS University, i am IOS developer</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **hafidzhkareem@gmail.com**
 
-- ⚡ Fun fact **i think im humble**
+- ⚡ Fun fact **i do love programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
