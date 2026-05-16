@@ -78,13 +78,19 @@ const kareem = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KareemHafidzh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemHafidzh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<!-- Profile Summary Cards (more reliable than github-readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KareemHafidzh&theme=tokyonight" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemHafidzh&theme=tokyonight&hide_border=true" width="68%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KareemHafidzh&theme=tokyonight" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KareemHafidzh&theme=tokyonight" height="180"/>
+
+<br/>
+
+<!-- Streak Stats (DIO-hosted, more stable) -->
+<img src="https://streak-stats.demolab.com?user=KareemHafidzh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="68%"/>
 
 <br/><br/>
 
