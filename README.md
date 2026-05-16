@@ -34,9 +34,8 @@
 const kareem = {
   username:   "KareemHafidzh",
   tagline:    "Tell me, what can't be built with code?",
-  passion:    ["Building cool stuff", "Clean architecture", "Open Source"],
-  currentFocus: "Full-Stack Development",
-  funFact:    "I debug with console.log and I'm proud of it 😄",
+  passion:    ["Clean Architecture", "SOLID Principle", "Refactorer"],
+  currentFocus: "IOS Development",
 };
 ```
 
